@@ -1,6 +1,6 @@
 {
   "name": "voting-website",
-  "homepage": "http://SBUVoting.github.io/voting-website",
+  "homepage": "http://SBUVoting.github.io/SBU-Voting-Collab-master",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
