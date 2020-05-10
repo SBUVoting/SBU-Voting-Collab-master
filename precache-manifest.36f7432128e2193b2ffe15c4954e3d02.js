@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d076ffbd26eea5872b78313a7166b19e",
+    "revision": "93a7437a3e559b19ffa09cdb5c3e436d",
     "url": "/SBU-Voting-Collab-master/index.html"
   },
   {
-    "revision": "20bf8bdc12f22ea2196f",
-    "url": "/SBU-Voting-Collab-master/static/css/main.70707be0.chunk.css"
+    "revision": "c64ad1bee466e739459d",
+    "url": "/SBU-Voting-Collab-master/static/css/main.3aed874f.chunk.css"
   },
   {
     "revision": "8dc746f2dc83aac4a7b9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SBU-Voting-Collab-master/static/js/2.094be611.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20bf8bdc12f22ea2196f",
-    "url": "/SBU-Voting-Collab-master/static/js/main.d4065f58.chunk.js"
+    "revision": "c64ad1bee466e739459d",
+    "url": "/SBU-Voting-Collab-master/static/js/main.b4ba526b.chunk.js"
   },
   {
     "revision": "638cb5f49ee84bb41194",
@@ -208,7 +208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SBU-Voting-Collab-master/static/media/Wyoming.5e790bdf.jpg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/SBU-Voting-Collab-master/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/SBU-Voting-Collab-master/static/media/logo.ee7cd8ed.svg"
   }
 ]);
