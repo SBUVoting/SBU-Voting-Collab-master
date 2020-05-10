@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SBU-Voting-Collab-master/precache-manifest.65c4ce565fc881a02f29f12ed00ac26d.js"
+  "/SBU-Voting-Collab-master/precache-manifest.891576c1bb14e383a893d3186f8dac6d.js"
 );
 
 self.addEventListener('message', (event) => {

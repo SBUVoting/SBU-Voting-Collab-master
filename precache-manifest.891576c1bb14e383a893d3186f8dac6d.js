@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df48222335a2b492fddcbd967d2980e3",
+    "revision": "d076ffbd26eea5872b78313a7166b19e",
     "url": "/SBU-Voting-Collab-master/index.html"
   },
   {
-    "revision": "72b020b394e0a9327bfb",
+    "revision": "20bf8bdc12f22ea2196f",
     "url": "/SBU-Voting-Collab-master/static/css/main.70707be0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SBU-Voting-Collab-master/static/js/2.094be611.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72b020b394e0a9327bfb",
-    "url": "/SBU-Voting-Collab-master/static/js/main.0cc241a8.chunk.js"
+    "revision": "20bf8bdc12f22ea2196f",
+    "url": "/SBU-Voting-Collab-master/static/js/main.d4065f58.chunk.js"
   },
   {
     "revision": "638cb5f49ee84bb41194",
